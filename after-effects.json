@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "message": "Bug fixes and new tabs.",
+  "version": "1.0.5",
+  "message": "New: Safe Zone tab rebuilt with 11 platform presets.\nNew: 14 guides for composition, film and broadcast.\nFixed: Safe Zone errors.\nFixed: Footer errors can be clicked to copy.",
   "link": "https://quickbar.pro/dashboard",
   "force_update": false
 }
